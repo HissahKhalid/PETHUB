@@ -12,8 +12,10 @@ Welcome to the PETHUB is a web app created for the FOWP course, connecting pet o
 ## Screenshots
 
 <div style="display: flex; gap: 10px;">
-  <img src="output/1.JPG" alt="Screenshot 1" width="300"/>
-  <img src="output/2.JPG" alt="Screenshot 2" width="300"/>
+  <img src="output/1.png" alt="Screenshot 1" width="300"/>
+  <img src="output/2.png" alt="Screenshot 2" width="300"/>
+  <img src="output/3.png" alt="Screenshot 3" width="300"/>
+  <img src="output/4.png" alt="Screenshot 4" width="300"/>
 </div>
 
 ## Contributing
